@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1540951453 source:c:\users\thiag\onedrive\Área de trabalho\coloraçãodegrafos\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<time.h>
+	"Vertice.h"
+
+1540699509 c:\users\thiag\onedrive\Área de trabalho\coloraçãodegrafos\include\vertice.h
+	<vector>
+	<stdlib.h>
+	<stdio.h>
+
+1540699509 source:c:\users\thiag\onedrive\Área de trabalho\coloraçãodegrafos\src\vertice.cpp
+	"Vertice.h"
+
